@@ -5,7 +5,7 @@
   </p>
 
   <p align="center">
-    <a href="https://vk.com/max.ss9"><img width="32px" alt="VK" title="VK" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/vk.svg"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://vk.com/max_ss9"><img width="32px" alt="VK" title="VK" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/vk.svg"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="@SkyHuntr"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/telegram.svg"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
   
